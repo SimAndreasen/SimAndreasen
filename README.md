@@ -1,5 +1,5 @@
 Hello my name is Simon Andreasen
-I am interested in coding, primarily in bioinformatics
+I am interested in coding, primarily in bioinformatics and cheminformatics
 
 Linked In profile:
 https://www.linkedin.com/in/simon-andreasen-559a8b1b0/
